@@ -28,8 +28,8 @@
                 "file": "Canvas.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": 147.70329794511966,
-                  "zoom": -0.6984921125220644
+                  "y": 40,
+                  "zoom": -0.4716210276452113
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing.md",
+                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing.md",
+                "file": "Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing.md"
+                "file": "Canvas.canvas"
               }
             }
           },
