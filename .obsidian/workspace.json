@@ -20,41 +20,22 @@
             }
           },
           {
-            "id": "abcb0373bb2e2d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d013168840b404d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Writing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7e33372ae81718f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf"
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": 147.70329794511966,
+                  "zoom": -0.6984921125220644
+                }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
+                "file": "Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
+                "file": "Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf"
+                "file": "Writing.md"
               }
             }
           },
@@ -190,18 +171,71 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e33372ae81718f",
+  "floating": {
+    "id": "91219a4680345c10",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4e95dfd39beccef2",
+        "type": "window",
+        "children": [
+          {
+            "id": "959c609e0f616bd4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abcb0373bb2e2d06",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Reading.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e7e33372ae81718f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Canvas.canvas",
+                    "viewState": {
+                      "x": -230,
+                      "y": -80,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 696,
+        "y": 164,
+        "width": 1076,
+        "height": 863,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d013168840b404d5",
   "lastOpenFiles": [
-    "Cambridge - IELTS 16 Academic Student's Book with Answers with Audio with Resource Bank (IELTS Practice Tests) (2021, Cambridge University Press) - libgen.li.pdf",
-    "Untitled.canvas",
     "Reading.md",
-    "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
+    "Canvas.canvas",
     "Listening.md",
+    "Writing.md",
+    "Speaking.md",
+    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
+    "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
+    "Cambridge - IELTS 16 Academic Student's Book with Answers with Audio with Resource Bank (IELTS Practice Tests) (2021, Cambridge University Press) - libgen.li.pdf",
     "Pasted image 20240626205930.png",
     "[IELTS Academic (17)] Cambridge University Press - Cambridge IELTS 17 Academic Student's Book with Answers 17 (2022, Cambridge University Press) - libgen.li.pdf",
-    "Speaking.md",
-    "Writing.md",
-    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
     "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf.crdownload"
   ]
 }
