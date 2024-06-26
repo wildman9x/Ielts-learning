@@ -23,14 +23,9 @@
             "id": "d013168840b404d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": 40,
-                  "zoom": -0.4716210276452113
-                }
+                "file": "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf"
               }
             }
           }
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas.canvas"
+                "file": "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf"
               }
             }
           },
@@ -154,12 +149,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +162,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -224,17 +219,19 @@
       }
     ]
   },
-  "active": "d013168840b404d5",
+  "active": "c3d6b1f84e8738cd",
   "lastOpenFiles": [
-    "Reading.md",
+    "Pasted image 20240626205930.png",
     "Canvas.canvas",
+    "Excalidraw/Drawing 2024-06-26 21.39.12.excalidraw.md",
+    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
+    "Excalidraw",
+    "Reading.md",
+    "Speaking.md",
     "Listening.md",
     "Writing.md",
-    "Speaking.md",
-    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
     "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
     "Cambridge - IELTS 16 Academic Student's Book with Answers with Audio with Resource Bank (IELTS Practice Tests) (2021, Cambridge University Press) - libgen.li.pdf",
-    "Pasted image 20240626205930.png",
     "[IELTS Academic (17)] Cambridge University Press - Cambridge IELTS 17 Academic Student's Book with Answers 17 (2022, Cambridge University Press) - libgen.li.pdf",
     "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf.crdownload"
   ]
