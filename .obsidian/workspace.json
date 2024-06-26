@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f4c0e3738592a0c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aef57a3390ee67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60baf51dc3b84597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abcb0373bb2e2d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d013168840b404d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7e33372ae81718f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listening.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e80d02603530d408",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca8820953a5f9a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e85b481afb3cc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42d60208f22c1ab9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "208d7bd2fab34b81",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6853717a857061c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dadf93229fe19cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f1093a6e85981f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Listening.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "365ff09711da9996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Listening.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40784b08a74e44a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3d6b1f84e8738cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Listening.md"
+              }
+            }
+          },
+          {
+            "id": "d396d51d29b28aeb",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e7e33372ae81718f",
+  "lastOpenFiles": [
+    "Pasted image 20240626205930.png",
+    "[IELTS Academic (17)] Cambridge University Press - Cambridge IELTS 17 Academic Student's Book with Answers 17 (2022, Cambridge University Press) - libgen.li.pdf",
+    "Cambridge - IELTS 16 Academic Student's Book with Answers with Audio with Resource Bank (IELTS Practice Tests) (2021, Cambridge University Press) - libgen.li.pdf",
+    "Listening.md",
+    "Untitled.canvas",
+    "Speaking.md",
+    "Writing.md",
+    "Reading.md",
+    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf",
+    "Cambridge IELTS Academic 18 With Answers Authentic Examination Papers (Cambridge University Press) (Z-Library).pdf",
+    "TBD - IELTS 19 Academic Student's Book with Answers with Resource Bank (IELTS Practice Tests)-Cambridge University Press and Assessment (2024).pdf.crdownload"
+  ]
+}
